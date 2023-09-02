@@ -1,6 +1,6 @@
 # U1 Activity 1: Programming Paradigms
 
-Produce a formal presentation (with supporting notes) for AQDS that explores the features and characteristics of the three different programming paradigms – Event Driven, Object Oriented and Procedural – in a selected application. The selected application source code will need to implement all three paradigms.
+Produce a formal presentation (with supporting notes) for AQDS that explores the features and characteristics of the three different programming paradigms – Event Driven, Object Oriented and Procedural – in this application. The application source code implements all three paradigms.
 
 Your presentation should include:
 
