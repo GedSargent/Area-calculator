@@ -35,4 +35,4 @@ The application source code implements all three paradigms - you will need to ex
 
 ---
 
-# 🦦 Good luck!
+# 🦦 Good luck! 🤓
